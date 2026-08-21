@@ -1,0 +1,145 @@
+PropertyBD — Real Estate Listings Directory
+Bangladesh Property Listings — August 2026
+==========================================
+
+LISTING ID: PROP-001
+Title: 2-Bedroom Apartment for Rent in Dhanmondi
+Type: Apartment
+Bedrooms: 2
+Bathrooms: 2
+Area: 1,200 square feet
+Price: ৳45,000 per month (rent)
+Location: House 12, Road 5, Dhanmondi R/A, Dhaka-1205
+City: Dhaka
+Description: A modern 2-bedroom apartment on the 4th floor with lift access. Features a spacious living room, fully equipped kitchen, attached bathrooms, and ample natural light. Perfect for small families or working professionals. Available immediately.
+Amenities: Lift, Generator backup, CCTV, Security guard, Parking (1 car), Gas connection, Broadband ready
+Contact Phone: +8801711223344
+Available: Yes
+
+---
+
+LISTING ID: PROP-002
+Title: 3-Bedroom Luxury Apartment for Rent in Gulshan-1
+Type: Apartment
+Bedrooms: 3
+Bathrooms: 3
+Area: 2,100 square feet
+Price: ৳95,000 per month (rent)
+Location: Flat 4B, Building 7, Gulshan Avenue, Gulshan-1, Dhaka-1212
+City: Dhaka
+Description: Premium apartment in the heart of Gulshan diplomatic zone. Fully furnished with high-end fixtures, modular kitchen, en-suite master bedroom, and a balcony with city views. Ideal for expats, senior executives, or diplomats. Building has 24-hour security.
+Amenities: Fully furnished, Lift, Generator, CCTV, Swimming pool, Gym, Rooftop garden, 2 parking spaces, Gas, Broadband
+Contact Phone: +8801911223344
+Available: Yes
+
+---
+
+LISTING ID: PROP-003
+Title: Commercial Office Space for Sale in Motijheel
+Type: Commercial
+Bedrooms: N/A
+Bathrooms: 4
+Area: 3,500 square feet
+Price: ৳1,20,00,000 (sale — 1 crore 20 lakh BDT)
+Location: 6th Floor, Business Tower, Dilkusha C/A, Motijheel, Dhaka-1000
+City: Dhaka
+Description: Prime commercial space in Dhaka's central business district. Open-plan layout with glass partitions, server room, conference room, and reception area. Building has dedicated fiber optic connectivity and a backup power system. Suitable for banks, IT companies, or corporate offices.
+Amenities: Central AC, Lift (4), Generator, CCTV, Fire safety, Parking (8 cars), Broadband, Conference room
+Contact Phone: +8801611223344
+Available: Yes
+
+---
+
+LISTING ID: PROP-004
+Title: 4-Bedroom House for Sale in Bashundhara R/A
+Type: House
+Bedrooms: 4
+Bathrooms: 5
+Area: 5,200 square feet (land + built)
+Price: ৳2,50,00,000 (sale — 2 crore 50 lakh BDT)
+Location: Block D, Plot 12, Bashundhara Residential Area, Dhaka-1229
+City: Dhaka
+Description: Spacious independent house in the prestigious Bashundhara R/A. Ground + 3 floors with rooftop garden. Includes separate servant quarters, carport for 3 vehicles, and a landscaped front garden. Fully walled compound with electric gate. Excellent for large families.
+Amenities: 3-car garage, Solar panel, Generator, CCTV, Rooftop garden, Servant quarters, Gas, Broadband
+Contact Phone: +8801811223344
+Available: Yes
+
+---
+
+LISTING ID: PROP-005
+Title: Studio Apartment for Rent in Mirpur-10
+Type: Apartment
+Bedrooms: 1 (studio)
+Bathrooms: 1
+Area: 650 square feet
+Price: ৳18,000 per month (rent)
+Location: Block B, Flat 3A, Pallabi, Mirpur-10, Dhaka-1216
+City: Dhaka
+Description: Compact, well-maintained studio apartment ideal for students, bachelors, or entry-level professionals. Close to Mirpur-10 metro station and major shopping centers. Building has 24-hour security. Water and building maintenance included in rent.
+Amenities: Security guard, Water included, Gas connection, Broadband ready
+Contact Phone: +8801511223344
+Available: Yes
+
+---
+
+LISTING ID: PROP-006
+Title: 2-Bedroom Apartment for Sale in Uttara
+Type: Apartment
+Bedrooms: 2
+Bathrooms: 2
+Area: 1,350 square feet
+Price: ৳65,00,000 (sale — 65 lakh BDT)
+Location: Sector 11, House 8, Road 3, Uttara, Dhaka-1230
+City: Dhaka
+Description: Ready-to-move-in apartment in Uttara Sector 11. Modern interior with ceramic tiling, built-in wardrobes, and a balcony. Located near Uttara Diabari Metro Station (5 min walk). Very suitable as an investment property with rental yield of ~৳28,000/month.
+Amenities: Lift, Generator, CCTV, Parking (1 car), Gas, Broadband, Balcony
+Contact Phone: +8801711334455
+Available: Yes
+
+---
+
+LISTING ID: PROP-007
+Title: 3-Bedroom Apartment for Rent in Agrabad, Chattogram
+Type: Apartment
+Bedrooms: 3
+Bathrooms: 2
+Area: 1,800 square feet
+Price: ৳40,000 per month (rent)
+Location: Building 5, Flat B2, Agrabad Commercial Area, Chattogram-4100
+City: Chattogram
+Description: Spacious 3-bedroom apartment in Chattogram's commercial hub. Ideal for port-area business professionals and their families. Walking distance to major banks, restaurants, and Agrabad Hotel. Building recently renovated with new lifts.
+Amenities: Lift, Generator, CCTV, Parking (1 car), Gas, Broadband
+Contact Phone: +8801911334455
+Available: Yes
+
+---
+
+LISTING ID: PROP-008
+Title: Land Plot for Sale in Purbachal New Town
+Type: Land
+Bedrooms: N/A
+Bathrooms: N/A
+Area: 5 katha (3,600 sqft)
+Price: ৳80,00,000 (sale — 80 lakh BDT)
+Location: Sector 8, Plot 45, Purbachal New Town, Rupganj, Narayanganj
+City: Narayanganj (near Dhaka)
+Description: Residential plot in the RAJUK-approved Purbachal New Town development. Fully developed sector with roads, drainage, and utilities in place. Ideal for building a custom home or investment. 30 min drive from Dhaka city center via Purbachal Expressway.
+Amenities: RAJUK approved, Road access, Utility connections available, Near Purbachal Expressway
+Contact Phone: +8801511334455
+Available: Yes
+
+---
+
+FREQUENTLY ASKED QUESTIONS:
+
+Q: What documents are needed to rent?
+A: National ID, 2 recent photos, employment letter or income proof, and advance rent (usually 3 months).
+
+Q: Is there any negotiation possible on rent?
+A: Yes, most listings allow 5-10% negotiation for long-term leases (1+ year).
+
+Q: Are these prices final?
+A: Listed prices are asking prices. Final price is subject to negotiation.
+
+Q: How do I schedule a property visit?
+A: Call the contact number listed for each property. Visits are available Saturday–Thursday, 10am–6pm.
